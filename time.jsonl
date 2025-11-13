@@ -1,0 +1,9 @@
+{ "Id":1, "cores":1, "Ram": 1024,"Time": 35 }
+{ "Id":2, "cores":2, "Ram": 1024,"Time": 28 }
+{ "Id":3, "cores":4, "Ram": 1024,"Time": 34 }
+{ "Id":4, "cores":1, "Ram": 2048,"Time": 33 }
+{ "Id":5, "cores":2, "Ram": 2048,"Time": 29 }
+{ "Id":6, "cores":4, "Ram": 2048,"Time": 35 }
+{ "Id":7, "cores":1, "Ram": 4096,"Time": 36 }
+{ "Id":8, "cores":2, "Ram": 4096,"Time": 30 }
+{ "Id":9, "cores":4, "Ram": 4096,"Time": 35 }

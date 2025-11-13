@@ -1,0 +1,2 @@
+# BashScript time log analysis
+## I was bored a little and so decided to test something , but I decided to just make a log file and analyze it. But it ended up being surprising and kinda confused me also. I've given the script and data I got and also their graph so you can see them yourself, And I know what I was doing wasn't efficient for hash cracking, but that's not the main point.
